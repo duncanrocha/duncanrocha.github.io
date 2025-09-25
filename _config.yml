@@ -23,7 +23,7 @@ repository               : "duncanrocha/duncanrocha.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Duncan Javier Rocha"
   pronouns         : "he/him"
   bio              : "A physicist interested in all things particle phenomenology - from the LHC to the early universe"
