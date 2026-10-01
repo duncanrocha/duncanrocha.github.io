@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a sixth year physics Ph.D. student from University of Chicago specializing in particle phenomenology and a student of Prof. Carlos Wagner. I'm affiliated with the Enrico Fermi Institute ([EFI](https://efi.uchicago.edu/)), as well as the Kavli Insitute for Cosmological Physics ([KICP](https://kavlicosmo.uchicago.edu/)). I'm originally from San Francisco, which I miss very much, but am now an avid fan of Chicago (during any season but winter). Outside of physics, I love playing all ball and racket sports, cooking, climbing, and making fun of my friends.
+Hello! I'm a Postdoctoral Scholar specializing in particle phenomenology at the University of Oregon and the [Institute for Fundamental Science](https://ifs.uoregon.edu/). Originally from San Francisco, I got my Ph.D. at the University of Chicago where Carlos Wagner was my advisor. Outside of physics, I love playing all ball and racket sports, cooking, climbing, and making fun of my friends.
 
 Academic Interests
 ======
