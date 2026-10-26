@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Main Page"
+title                    : "Duncan Javier Rocha"
 title_separator          : "-"
 name                     : &name "Duncan Javier Rocha"
 description              : &description "Duncan Rocha's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
